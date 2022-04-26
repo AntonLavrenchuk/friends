@@ -1,0 +1,12 @@
+D:\PROJECTS\friends\Friends\FriendsCore\bin\Debug\net5.0\FriendsCore.deps.json
+D:\PROJECTS\friends\Friends\FriendsCore\bin\Debug\net5.0\FriendsCore.dll
+D:\PROJECTS\friends\Friends\FriendsCore\bin\Debug\net5.0\FriendsCore.pdb
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\FriendsCore.csproj.AssemblyReference.cache
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\FriendsCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\FriendsCore.AssemblyInfoInputs.cache
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\FriendsCore.AssemblyInfo.cs
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\FriendsCore.csproj.CoreCompileInputs.cache
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\FriendsCore.dll
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\refint\FriendsCore.dll
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\FriendsCore.pdb
+D:\PROJECTS\friends\Friends\FriendsCore\obj\Debug\net5.0\ref\FriendsCore.dll

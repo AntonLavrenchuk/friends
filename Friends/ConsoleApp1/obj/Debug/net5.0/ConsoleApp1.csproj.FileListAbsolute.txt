@@ -1,0 +1,16 @@
+D:\PROJECTS\friends\Friends\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\PROJECTS\friends\Friends\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\PROJECTS\friends\Friends\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\PROJECTS\friends\Friends\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\PROJECTS\friends\Friends\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\PROJECTS\friends\Friends\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\refint\ConsoleApp1.dll
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+D:\PROJECTS\friends\Friends\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
