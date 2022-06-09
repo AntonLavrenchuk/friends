@@ -1,0 +1,13 @@
+<div class = "event-details" *ngIf = "event">
+    <span class ="event-details-id">{{event.id}}</span>
+    <span class ="event-details-name">{{event.name}}</span>
+    <span class ="event-details-startDate">{{event.startDate}}</span>
+    <span class ="event-details-coordinates">{{event.coordinates}}</span>
+    <ul class = "event-details-membersId">
+        <li *ngFor = "let memberId of event.membersId">
+            <span class = "event-details-membersId-memberId">{{memberId}}</span>
+        </li>
+    </ul>
+    <a type="button" [routerLink] = "['/events',event.id,'edit']" class="btn btn-sm btn-outline-secondary">Edit</a>
+    <button class="btn btn-sm btn-outline-secondary" (click) = "onDelete()">Delete</button>
+</div>

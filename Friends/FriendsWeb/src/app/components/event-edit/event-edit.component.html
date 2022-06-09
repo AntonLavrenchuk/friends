@@ -1,0 +1,10 @@
+<p>event-edit works!</p>
+<div>
+    <form [formGroup] = "eventToEditForm">
+        <input type = "text" id = "name" formControlName="name" (change)="onChange()"/>
+        <input type = "date" id = "startDate" formControlName="startDate"/>
+        <input type = "text" id = "coordinates" formControlName="coordinates" (change)="onChange()"/>
+
+        <button type = "submit" id ="submit" class = "btn btn-primary my-2" (click) = "onSubmit()" [disabled] = "buttonDisabled">Edit</button>
+    </form>
+</div>

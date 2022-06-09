@@ -84,7 +84,13 @@ namespace FriendsApi
 
             app.UseRouting();
 
-            app.UseAuthorization();
+            //app.UseAuthorization();
+            app.UseCors(configurePolicy =>
+            {
+                configurePolicy.AllowAnyOrigin();
+                configurePolicy.AllowAnyHeader();
+                configurePolicy.AllowAnyMethod();
+            });
 
             app.UseEndpoints(endpoints =>
             {

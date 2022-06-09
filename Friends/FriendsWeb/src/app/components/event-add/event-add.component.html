@@ -1,0 +1,11 @@
+<div>
+    ahdhhfhdsfghdsfjdsfhdshg
+    <form [formGroup] = "eventToAddForm">
+        <input type = "text" id = "name" formControlName="name"/>
+        <input type = "datetime" id = "startDate" formControlName="startDate"/>
+        <input type = "text" id = "coordinates" formControlName="coordinates"/>
+        <input type = "number" id = "organizatorId" formControlName="organizatorId"/>
+        
+        <button type = "submit" id = "submit" class = "btn btn-primary my-2" (click) = "onSubmit()">Add</button>
+    </form>
+</div>
