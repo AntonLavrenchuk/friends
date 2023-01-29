@@ -20,6 +20,13 @@ namespace FriendsData.EntityConfigurations
                 .WithMany(_ => _.Members)
                 .UsingEntity(_ => _.ToTable("dbo.EventsUsers"));
 
+            builder.HasOne(_ => _.Role)
+                .WithMany();
+
+            builder.HasOne(_ => _.RefreshToken)
+                .WithOne(_ => _.User)
+                .HasForeignKey<RefreshToken>(_ => _.UserId)
+                .HasPrincipalKey<User>(_=>_.Id);
             
         }
     }

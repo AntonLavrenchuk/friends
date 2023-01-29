@@ -32,5 +32,13 @@ namespace FriendsData.Entities
         [Required]
         public DateTime BirthDate { get; set; }
 
+        public int RoleId { get; set; }
+
+        public Role Role { get; set; }
+
+        public int? RefreshTokenID { get; set; }
+
+        public RefreshToken RefreshToken { get; set; }
+
     }
 }

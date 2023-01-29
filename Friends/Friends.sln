@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FriendsData", "FriendsData\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FriendsCore", "FriendsCore\FriendsCore.csproj", "{E8C2F50E-FAF1-4475-B1A1-6429A9061163}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsAuth", "FriendsAuth\FriendsAuth.csproj", "{831B4D59-4285-4D4C-AB74-4BD0A96B660C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendsAuth", "FriendsAuth\FriendsAuth.csproj", "{A8323F26-13E9-4E89-9692-8DC6A04FC1E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{E8C2F50E-FAF1-4475-B1A1-6429A9061163}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8C2F50E-FAF1-4475-B1A1-6429A9061163}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8C2F50E-FAF1-4475-B1A1-6429A9061163}.Release|Any CPU.Build.0 = Release|Any CPU
-		{831B4D59-4285-4D4C-AB74-4BD0A96B660C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{831B4D59-4285-4D4C-AB74-4BD0A96B660C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{831B4D59-4285-4D4C-AB74-4BD0A96B660C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{831B4D59-4285-4D4C-AB74-4BD0A96B660C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8323F26-13E9-4E89-9692-8DC6A04FC1E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8323F26-13E9-4E89-9692-8DC6A04FC1E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8323F26-13E9-4E89-9692-8DC6A04FC1E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8323F26-13E9-4E89-9692-8DC6A04FC1E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

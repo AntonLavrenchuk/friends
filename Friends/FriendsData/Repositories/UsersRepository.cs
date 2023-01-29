@@ -13,5 +13,12 @@ namespace FriendsData.Repositories
         public UsersRepository(EventsContext context) : base(context)
         {
         }
+
+        public IEnumerable<User> GetWithIncludeAll()
+        {
+            return _dbContext.Set<User>()
+                .Include(user => user.Role)
+                .Include(user => user.RefreshToken);
+        }
     }
 }
